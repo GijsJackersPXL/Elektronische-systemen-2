@@ -18,3 +18,6 @@ https://easyeda.com/circuitdigest/Alcohol_Detector-6b80abe350df4526b21be4999638a
 
 Alcohol Detector Meter Circuit using MQ-3 Sensor Module: 
 https://www.homemade-circuits.com/simple-alcohol-detector-meter-circuit-using-mq-3-sensor-module/
+
+MQ3 sensor:
+https://www.ratoeducation.be/nl/grove-gas-sensormq3.html
