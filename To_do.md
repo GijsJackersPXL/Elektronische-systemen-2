@@ -2,8 +2,15 @@
 
 - Output van MQ-3 liniear ?
 - Alles op 1 pcb
-- Tegen 1 maart simulatie van mq-3 (simuleren door regelbare weerstand) in multisim
+- **Tegen 1 maart simulatie van mq-3 (simuleren door regelbare weerstand) in multisim**
 - Heeft nano genoeg outputpinnen voor 4x7 segment display
-
-
 - lampjes analoog / 7-segment digitaal
+- bestellen van mq3 en regelbare weerstand om te tesen
+
+
+- Tegen volgende week
+
+
+- zenerdiodes in multisim schema
+- Mail naar patick sturen (Altium)
+- adc van arduinio gebruiken 
