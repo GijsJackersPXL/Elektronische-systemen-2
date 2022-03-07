@@ -8,7 +8,7 @@
 
 - Tegen 08/03
 - [ ] Zenerdiodes in multisim schema
-- [ ] Mail naar Patrick sturen (Altium)
+- [x] Mail naar Patrick sturen (Altium)
 - [ ] Groen lampje met 1V aansturen? (niet-inverterende versterker?)
 
 # Eigenschappen die we niet moeten vergeten 
