@@ -10,6 +10,9 @@
 - [x] Zenerdiodes in multisim schema
 - [x] Mail naar Patrick sturen (Altium)
 
+- Tegen 15/03
+- [ ]
+
 # Eigenschappen die we niet moeten vergeten 
 
 - Alles op 1 pcb
