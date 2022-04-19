@@ -16,5 +16,11 @@
 # Eigenschappen die we niet moeten vergeten 
 
 - Alles op 1 pcb
+- SMD op 1 kant, mag niet 2 keer door de oven
+- Voor en achterkant gebruiken
+- 7 segment gaat met I²C werken, gaat patrick voorzien
+- Baan lengte verkorten (mq3 dichter bij de arduino zetten)
+- Geen 90° hoeken gebruiken
+- silkscreen nota's toevoegen (weten hoe componenten geplaatst moeten worden
 - Lampjes analoog / 7-segment digitaal
 - Adc van arduino gebruiken 
