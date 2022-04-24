@@ -1,0 +1,273 @@
+Added Component: Designator=1N4371A(DO-35)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=4 digit 7 segment display(CC5612SRWA)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//CC56-12SRWA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC56-12SRWA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "604-CC56-12SRWA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=604-CC56-12SRWA"; VariantName = "[No Variations]"
+Added Component: Designator=?(DO-35)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ARDUINO_NANO(ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=COMPERATOR(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/LM7171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7171AIMX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "926-LM7171AIMX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM7171AIMX%2FNOPB"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO-35)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=GROEN(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MQ - 3(XDCR_SEN-08880)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEN-08880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SEN-08880/SparkFun%20Electronics/view-part/1160647/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ORANJE?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ORANJE(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=ROOD?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ROOD(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TB1(MJ-180PH)
+Added Pin To Net: NetName=+5 Pin=ARDUINO_NANO-12
+Added Pin To Net: NetName=+5 Pin=MQ - 3-1
+Added Pin To Net: NetName=+5 Pin=MQ - 3-2
+Added Pin To Net: NetName=+5 Pin=MQ - 3-3
+Added Net: Name=+5
+Added Pin To Net: NetName=+15 Pin=COMPERATOR-7
+Added Pin To Net: NetName=+15 Pin=TB1-1
+Added Net: Name=+15
+Added Pin To Net: NetName=D2 Pin=ARDUINO_NANO-20
+Added Pin To Net: NetName=D2 Pin=R14-1
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=ARDUINO_NANO-21
+Added Pin To Net: NetName=D3 Pin=R15-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=ARDUINO_NANO-22
+Added Pin To Net: NetName=D4 Pin=R16-1
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=ARDUINO_NANO-23
+Added Pin To Net: NetName=D5 Pin=R13-2
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=4 digit 7 segment display-11
+Added Pin To Net: NetName=D6 Pin=ARDUINO_NANO-24
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=4 digit 7 segment display-7
+Added Pin To Net: NetName=D7 Pin=ARDUINO_NANO-25
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=4 digit 7 segment display-4
+Added Pin To Net: NetName=D8 Pin=ARDUINO_NANO-26
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=4 digit 7 segment display-2
+Added Pin To Net: NetName=D9 Pin=ARDUINO_NANO-27
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=4 digit 7 segment display-1
+Added Pin To Net: NetName=D10 Pin=ARDUINO_NANO-28
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=4 digit 7 segment display-10
+Added Pin To Net: NetName=D11 Pin=ARDUINO_NANO-29
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=4 digit 7 segment display-5
+Added Pin To Net: NetName=D12 Pin=ARDUINO_NANO-30
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=4 digit 7 segment display-3
+Added Pin To Net: NetName=D13 Pin=ARDUINO_NANO-1
+Added Net: Name=D13
+Added Pin To Net: NetName=GND Pin=ARDUINO_NANO-14
+Added Pin To Net: NetName=GND Pin=COMPERATOR-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=TB1-2
+Added Pin To Net: NetName=GND Pin=TB1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1N4371A_1 Pin=1N4371A-1
+Added Pin To Net: NetName=Net1N4371A_1 Pin=ORANJE-1
+Added Net: Name=Net1N4371A_1
+Added Pin To Net: NetName=Net1N4371A_2 Pin=1N4371A-2
+Added Pin To Net: NetName=Net1N4371A_2 Pin=?-2
+Added Pin To Net: NetName=Net1N4371A_2 Pin=COMPERATOR-6
+Added Pin To Net: NetName=Net1N4371A_2 Pin=D?-2
+Added Pin To Net: NetName=Net1N4371A_2 Pin=GROEN-1
+Added Pin To Net: NetName=Net1N4371A_2 Pin=ORANJE?-1
+Added Pin To Net: NetName=Net1N4371A_2 Pin=R10-2
+Added Net: Name=Net1N4371A_2
+Added Pin To Net: NetName=Net4 digit 7 segment display_6 Pin=4 digit 7 segment display-6
+Added Pin To Net: NetName=Net4 digit 7 segment display_6 Pin=R13-1
+Added Net: Name=Net4 digit 7 segment display_6
+Added Pin To Net: NetName=Net4 digit 7 segment display_8 Pin=4 digit 7 segment display-8
+Added Pin To Net: NetName=Net4 digit 7 segment display_8 Pin=R16-2
+Added Net: Name=Net4 digit 7 segment display_8
+Added Pin To Net: NetName=Net4 digit 7 segment display_9 Pin=4 digit 7 segment display-9
+Added Pin To Net: NetName=Net4 digit 7 segment display_9 Pin=R15-2
+Added Net: Name=Net4 digit 7 segment display_9
+Added Pin To Net: NetName=Net4 digit 7 segment display_12 Pin=4 digit 7 segment display-12
+Added Pin To Net: NetName=Net4 digit 7 segment display_12 Pin=R14-2
+Added Net: Name=Net4 digit 7 segment display_12
+Added Pin To Net: NetName=Net?_1 Pin=?-1
+Added Pin To Net: NetName=Net?_1 Pin=ROOD?-1
+Added Net: Name=Net?_1
+Added Pin To Net: NetName=NetARDUINO_NANO_4 Pin=ARDUINO_NANO-4
+Added Pin To Net: NetName=NetARDUINO_NANO_4 Pin=COMPERATOR-3
+Added Pin To Net: NetName=NetARDUINO_NANO_4 Pin=MQ - 3-4
+Added Pin To Net: NetName=NetARDUINO_NANO_4 Pin=MQ - 3-6
+Added Pin To Net: NetName=NetARDUINO_NANO_4 Pin=R12-2
+Added Net: Name=NetARDUINO_NANO_4
+Added Pin To Net: NetName=NetCOMPERATOR_2 Pin=COMPERATOR-2
+Added Pin To Net: NetName=NetCOMPERATOR_2 Pin=R9-2
+Added Pin To Net: NetName=NetCOMPERATOR_2 Pin=R10-1
+Added Net: Name=NetCOMPERATOR_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=ROOD-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetGROEN_2 Pin=GROEN-2
+Added Pin To Net: NetName=NetGROEN_2 Pin=R1-1
+Added Net: Name=NetGROEN_2
+Added Pin To Net: NetName=NetMQ - 3_5 Pin=MQ - 3-5
+Added Pin To Net: NetName=NetMQ - 3_5 Pin=R11-2
+Added Net: Name=NetMQ - 3_5
+Added Pin To Net: NetName=NetORANJE?_2 Pin=ORANJE?-2
+Added Pin To Net: NetName=NetORANJE?_2 Pin=R2-1
+Added Net: Name=NetORANJE?_2
+Added Pin To Net: NetName=NetORANJE_2 Pin=ORANJE-2
+Added Pin To Net: NetName=NetORANJE_2 Pin=R3-1
+Added Net: Name=NetORANJE_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=ROOD?-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=ROOD-2
+Added Net: Name=NetR7_1
+Added Class: Name=AlcoholDetectie met bus
+Added Room: Name=AlcoholDetectie met bus

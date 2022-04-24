@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=ORANJE NewDesignator=ORANJE_2
+Change Component Designator: OldDesignator=ORANJE? NewDesignator=ORANJE_1
+Change Component Designator: OldDesignator=ROOD NewDesignator=ROOD_2
+Change Component Designator: OldDesignator=ROOD? NewDesignator=ROOD_1
+Change Net Name : Old Net Name=NetORANJE?_2 New Net Name=NetORANJE_1_2
+Change Net Name : Old Net Name=NetORANJE_2 New Net Name=NetORANJE_2_2
