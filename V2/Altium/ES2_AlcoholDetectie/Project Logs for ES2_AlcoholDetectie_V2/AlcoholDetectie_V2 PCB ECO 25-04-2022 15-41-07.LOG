@@ -1,0 +1,19 @@
+Added Component: Designator=MQ - 3(XDCR_SEN-08880)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEN-08880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SEN-08880/SparkFun%20Electronics/view-part/1160647/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Arduino Nano-+5V
+Add Pin To Net: Unknown Pin: Pin Arduino Nano-GND1
+Add Pin To Net: Unknown Pin: Pin Arduino Nano-VIN
+Added Pin To Net: NetName=+5 Pin=MQ - 3-1
+Added Pin To Net: NetName=+5 Pin=MQ - 3-2
+Added Pin To Net: NetName=+5 Pin=MQ - 3-3
+Added Pin To Net: NetName=NetMQ - 3_4 Pin=MQ - 3-4
+Added Pin To Net: NetName=NetMQ - 3_5 Pin=MQ - 3-5
+Added Pin To Net: NetName=NetMQ - 3_4 Pin=MQ - 3-6
+Added Member To Class: ClassName=AlcoholDetectie_V2 Member=Component MQ - 3 SEN-08880
+Added Room: Name=AlcoholDetectie_V2
