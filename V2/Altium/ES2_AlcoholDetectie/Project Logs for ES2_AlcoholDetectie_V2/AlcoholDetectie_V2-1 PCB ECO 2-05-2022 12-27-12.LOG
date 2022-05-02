@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+15 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Member From Class: ClassName=AlcoholDetectie_V2 Member=R10
+Removed Member From Class: ClassName=AlcoholDetectie_V2 Member=R11
+Added Room: Name=AlcoholDetectie_V2
