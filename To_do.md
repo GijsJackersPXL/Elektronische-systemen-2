@@ -3,7 +3,7 @@
 - [x] Output van MQ-3 liniear ?
 - [x] Tegen 1 maart simulatie van mq-3 (simuleren door regelbare weerstand) in multisim
 - [x] Heeft nano genoeg outputpinnen voor 4x7 segment display
-- [ ] Bestellen van mq3 en regelbare weerstand om te testen
+- [x] Bestellen van mq3 en regelbare weerstand om te testen
 
 
 - Tegen 08/03
