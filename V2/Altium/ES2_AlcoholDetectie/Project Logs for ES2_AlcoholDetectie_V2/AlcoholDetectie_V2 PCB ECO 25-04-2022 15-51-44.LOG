@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=Arduino Nano Old Footprint=SHIELD_ARDUINO_NANO New Footprint=PDIP-32
-Added Pin To Net: NetName=+5 Pin=Arduino Nano-+5V
-Added Pin To Net: NetName=GND Pin=Arduino Nano-GND1
-Added Pin To Net: NetName=NetArduino Nano_VIN Pin=Arduino Nano-VIN
