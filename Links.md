@@ -19,3 +19,6 @@ Arduino Alcohol Detector Shield:
 Alcohol Detector Meter Circuit using MQ-3 Sensor Module: 
 - https://www.homemade-circuits.com/simple-alcohol-detector-meter-circuit-using-mq-3-sensor-module/
 
+Presentatie
+
+- https://docs.google.com/presentation/d/1zXlDTwf34HHRJbuZrqZnQB9hFsym_aRQZOwaHV0BLTg/edit#slide=id.g1300bdb3921_1_11
